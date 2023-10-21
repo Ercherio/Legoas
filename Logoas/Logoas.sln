@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logoas", "Logoas\Logoas.csproj", "{70E036D6-3DE8-4847-831C-5481D83B4977}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{222FCCF5-8167-4141-896F-811E0F33E231}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70E036D6-3DE8-4847-831C-5481D83B4977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E036D6-3DE8-4847-831C-5481D83B4977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E036D6-3DE8-4847-831C-5481D83B4977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E036D6-3DE8-4847-831C-5481D83B4977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{222FCCF5-8167-4141-896F-811E0F33E231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{222FCCF5-8167-4141-896F-811E0F33E231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{222FCCF5-8167-4141-896F-811E0F33E231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{222FCCF5-8167-4141-896F-811E0F33E231}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EEAD949-E613-48FF-97D0-0FAFC15C03F9}
+	EndGlobalSection
+EndGlobal
